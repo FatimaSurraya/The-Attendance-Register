@@ -1,0 +1,30 @@
+AttendanceID,LessonID,PupilID,AttendanceStatus
+1,31,1,Present
+2,32,2,Authorised Absence
+3,33,3,Unauthorised Absence
+4,34,4,Present
+5,35,5,Present
+6,36,6,Authorised Absence
+7,37,7,Unauthorised Absence
+8,38,8,Present
+9,39,9,Present
+10,40,10,Authorised Absence
+11,41,11,Unauthorised Absence
+12,42,12,Present
+13,43,13,Present
+14,44,14,Authorised Absence
+15,45,16,Unauthorised Absence
+17,47,17,Present
+18,48,18,Present
+19,49,19,Authorised Absence
+20,50,20,Unauthorised Absence
+21,51,21,Present
+22,52,22,Present
+23,53,23,Authorised Absence
+24,54,24,Unauthorised Absence
+25,55,25,Present
+26,56,26,Present
+27,57,27,Present
+28,58,28,Authorised Absence
+29,59,29,Unauthorised Absence
+30,60,30,Present

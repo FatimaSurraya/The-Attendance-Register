@@ -1,0 +1,31 @@
+LessonID,LessonDate,LessonTime,StaffID,PupilID,AttendanceStatus
+31,1/1/2023,Morning,1,1,Present
+32,1/1/2023,Morning,2,2,Present
+33,1/1/2023,Morning,3,3,Authorised Absence
+34,1/1/2023,Morning,4,4,Present
+35,1/1/2023,Morning,5,5,Unauthorised Absence
+36,1/2/2023,Afternoon,6,1,Present
+37,1/2/2023,Afternoon,7,2,Authorised Absence
+38,1/2/2023,Afternoon,8,3,Present
+39,1/2/2023,Afternoon,9,4,Present
+40,1/2/2023,Afternoon,10,5,Unauthorised Absence
+41,2/3/2023,Morning,1,11,Present
+42,1/4/2023,Morning,2,12,Unauthorised Absence
+43,4/3/2023,Morning,3,13,Present
+44,7/1/2023,Morning,4,14,Present
+45,4/1/2023,Morning,5,15,Present
+46,6/1/2023,Morning,6,16,Authorised Absence
+47,5/1/2023,Morning,7,17,Present
+48,3/8/2023,Morning,8,18,Unauthorised Absence
+49,2/2/2023,Afternoon,9,19,Present
+50,1/8/2023,Afternoon,10,20,Authorised Absence
+51,2/1/2023,Morning,1,21,Present
+52,3/1/2023,Morning,2,22,Present
+53,4/9/2023,Morning,3,23,Authorised Absence
+54,5/1/2023,Morning,4,24,Present
+55,6/7/2023,Morning,5,25,Unauthorised Absence
+56,7/4/2023,Afternoon,6,26,Present
+57,8/7/2023,Afternoon,7,27,Authorised Absence
+58,6/5/2023,Morning,8,28,Present
+59,5/6/2023,Morning,9,29,Present
+60,1/17/2023,Morning,10,30,Authorised Absence
